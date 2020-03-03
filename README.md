@@ -33,6 +33,7 @@ Yelp is a popular platform for customers to publish reviews for different types 
 
 
 
+
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
 [Assignment04](https://github.com/sofiatam/Assignment04-DH150)
