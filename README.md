@@ -1,7 +1,7 @@
-# Project title
+# Trends and Friends
 ## DH 150 Winter 2020, Sofia Tam
 
-## About the [project title]:
+## About Trends and Friends:
 What is the project about? The motivation of the project and possible contribution. (2-3 sentences)
 
 
