@@ -1,13 +1,32 @@
-# Project title + your name
+# Project title
+## DH 150 Winter 2020, Sofia Tam
 
-## Introduction: a brief information about the project. 
-What is the project about? The motivation of the project and possible contribution.
+## About the [project title]:
+What is the project about? The motivation of the project and possible contribution. (2-3 sentences)
 
-## Clear design statement: 
+## Design statement: 
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 
-## Competitor analysis [assignment01 & 02]:
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+I hope to impact the food community by providing foodies (+ aspring foodies) with a seamless and efficient food-related experience.
+
+## Competitor analysis:
+Yelp is a popular platform for customers to publish reviews for different types of businesses (restaurants, shops, services, etc.). OpenTable, which is a part of Booking.com, provides a similar service to Yelp in that it allows for searching of restaurants, booking of reservations, and writing of reviews. Both of these services help provide users (+ aspiring foodies) with a streamlined food experience. Read more [here](https://github.com/sofiatam/Assignment01-DH150).
+
+Usability testing: [here](https://github.com/sofiatam/Assignment02-DH150)
+
+#### Yelp
+Landing page | Search results
+------------ | --------------
+<img width="1440" ![Yelp Landing Page](https://user-images.githubusercontent.com/25126263/72222627-bd079000-351b-11ea-9a98-8870284eebef.png)> | <img width="1440" ![Yelp Search Results](https://user-images.githubusercontent.com/25126263/72222693-a1e95000-351c-11ea-8508-261a2a2897dc.png)>
+
+
+#### OpenTable
+Landing page | Search results
+------------ | --------------
+<img width="1440" ![OpenTable Landing Page](https://user-images.githubusercontent.com/25126263/72370150-7a2def80-36b6-11ea-9502-0513803859d4.png)> | <img width="1440" ![OpenTable Search Results](https://user-images.githubusercontent.com/25126263/72370159-7d28e000-36b6-11ea-9e31-f362dfb9f391.png)>
+
+
+
 
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
