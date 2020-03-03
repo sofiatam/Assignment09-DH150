@@ -23,28 +23,28 @@ Landing page | Search results
 
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
-![Assignment04](https://github.com/sofiatam/Assignment04-DH150)
+[Assignment04](https://github.com/sofiatam/Assignment04-DH150)
 
 
 ## UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
-![Assignment05](https://github.com/sofiatam/Assignment05-DH150)
+[Assignment05](https://github.com/sofiatam/Assignment05-DH150)
 
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
-![Assignment06](https://github.com/sofiatam/Assignment06-DH150)
-![Assignment07](https://github.com/sofiatam/Assignment07-DH150)
-![Assignment08](https://github.com/sofiatam/Assignment08-DH150)
+[Assignment06](https://github.com/sofiatam/Assignment06-DH150)
+[Assignment07](https://github.com/sofiatam/Assignment07-DH150)
+[Assignment08](https://github.com/sofiatam/Assignment08-DH150)
 
 
 ## Low-fidelity prototype (wireflow, assignment07)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
-![Assignment06](https://github.com/sofiatam/Assignment06-DH150)
+[Assignment06](https://github.com/sofiatam/Assignment06-DH150)
 
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
-![Assignment08](https://github.com/sofiatam/Assignment08-DH150)
+[Assignment08](https://github.com/sofiatam/Assignment08-DH150)
 
 
 ## Optional evaluation and revision history 
