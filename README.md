@@ -17,8 +17,6 @@ Yelp is a popular platform for customers to publish reviews for different types 
 #### Comparison of Yelp and OpenTable
 <table>
 <tr>
-<table>
-<tr>
   <td> <img width="1440" alt="Screen Shot 2020-01-11 at 9 44 30 PM" src="https://user-images.githubusercontent.com/25126263/72222627-bd079000-351b-11ea-9a98-8870284eebef.png"> </td>
   <td> <img width="1440" alt="Screen Shot 2020-01-12 at 9 15 34 AM" src="https://user-images.githubusercontent.com/25126263/72222693-a1e95000-351c-11ea-8508-261a2a2897dc.png"> </td>
 </tr>
