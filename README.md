@@ -22,10 +22,10 @@ Landing page|Search results
 
 <table>
 <tr>
-  <td> <img src=”https://user-images.githubusercontent.com/25126263/72222627-bd079000-351b-11ea-9a98-8870284eebef.png” height=”300px”> </td>
-  <td> <img src=”https://user-images.githubusercontent.com/25126263/72222693-a1e95000-351c-11ea-8508-261a2a2897dc.png” height=”300px”> </td>
-  <td> <img src=”https://user-images.githubusercontent.com/25126263/72370150-7a2def80-36b6-11ea-9502-0513803859d4.png” height=”300px”> </td>
-  <td> <img src=”ttps://user-images.githubusercontent.com/25126263/72370159-7d28e000-36b6-11ea-9e31-f362dfb9f391.png” height=”300px”> </td>
+  <td> <img width="1440" alt="Screen Shot 2020-01-11 at 9 44 30 PM" src="https://user-images.githubusercontent.com/25126263/72222627-bd079000-351b-11ea-9a98-8870284eebef.png"> </td>
+  <td> <img width="1440" alt="Screen Shot 2020-01-12 at 9 15 34 AM" src="https://user-images.githubusercontent.com/25126263/72222693-a1e95000-351c-11ea-8508-261a2a2897dc.png"> </td>
+  <td> <img width="1440" alt="Screen Shot 2020-01-14 at 10 06 16 AM" src="https://user-images.githubusercontent.com/25126263/72370150-7a2def80-36b6-11ea-9502-0513803859d4.png"> </td>
+  <td> <img width="1440" alt="Screen Shot 2020-01-14 at 10 06 25 AM" src="https://user-images.githubusercontent.com/25126263/72370159-7d28e000-36b6-11ea-9e31-f362dfb9f391.png"> </td>
 </tr>
 </table>
 
