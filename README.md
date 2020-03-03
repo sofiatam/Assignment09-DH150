@@ -15,7 +15,6 @@ I hope to impact the food community by providing foodies (+ aspring foodies) wit
 Yelp is a popular platform for customers to publish reviews for different types of businesses (restaurants, shops, services, etc.). OpenTable, which is a part of Booking.com, provides a similar service to Yelp in that it allows for searching of restaurants, booking of reservations, and writing of reviews. Both of these services help provide users (+ aspiring foodies) with a streamlined food experience. Read more [here](https://github.com/sofiatam/Assignment01-DH150). See usability testing [here](https://github.com/sofiatam/Assignment02-DH150).
 
 #### Comparison of Yelp and OpenTable
-
 <table>
 <tr>
 <table>
@@ -30,8 +29,6 @@ Yelp is a popular platform for customers to publish reviews for different types 
   <td> <img width="1440" alt="Screen Shot 2020-01-14 at 10 06 25 AM" src="https://user-images.githubusercontent.com/25126263/72370159-7d28e000-36b6-11ea-9e31-f362dfb9f391.png"> </td>
 </tr>
 </table>
-
-
 
 
 ## User research [contextual inquiry, assignment04]:
