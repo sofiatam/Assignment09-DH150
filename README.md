@@ -15,10 +15,10 @@ I hope to impact the food community by providing foodies (+ aspring foodies) wit
 Yelp is a popular platform for customers to publish reviews for different types of businesses (restaurants, shops, services, etc.). OpenTable, which is a part of Booking.com, provides a similar service to Yelp in that it allows for searching of restaurants, booking of reservations, and writing of reviews. Both of these services help provide users (+ aspiring foodies) with a streamlined food experience. Read more [here](https://github.com/sofiatam/Assignment01-DH150). See usability testing [here](https://github.com/sofiatam/Assignment02-DH150).
 
 #### Comparison of Yelp and OpenTable
-Landing page | Search results
------------- | --------------
-![Yelp Landing Page](https://user-images.githubusercontent.com/25126263/72222627-bd079000-351b-11ea-9a98-8870284eebef.png) | ![Yelp Search Results](https://user-images.githubusercontent.com/25126263/72222693-a1e95000-351c-11ea-8508-261a2a2897dc.png)
-![OpenTable Landing Page](https://user-images.githubusercontent.com/25126263/72370150-7a2def80-36b6-11ea-9502-0513803859d4.png) | ![OpenTable Search Results](https://user-images.githubusercontent.com/25126263/72370159-7d28e000-36b6-11ea-9e31-f362dfb9f391.png)
+Landing page|Search results
+-------------|---------------
+![Yelp Landing Page](https://user-images.githubusercontent.com/25126263/72222627-bd079000-351b-11ea-9a98-8870284eebef.png)|![Yelp Search Results](https://user-images.githubusercontent.com/25126263/72222693-a1e95000-351c-11ea-8508-261a2a2897dc.png)
+![OpenTable Landing Page](https://user-images.githubusercontent.com/25126263/72370150-7a2def80-36b6-11ea-9502-0513803859d4.png)|![OpenTable Search Results](https://user-images.githubusercontent.com/25126263/72370159-7d28e000-36b6-11ea-9e31-f362dfb9f391.png)
 
 
 ## User research [contextual inquiry, assignment04]:
