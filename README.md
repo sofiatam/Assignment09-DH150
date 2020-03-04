@@ -1,15 +1,15 @@
 # Trends n Friends
 ## DH 150 UX Deisgn, Sofia Tam
 
-## About Trends n Friends:
+## About Trends n Friends
 Yelp is a popular platform for community members to publish reviews for different types of businesses (restaurants, shops, services, etc.), but it lacks a social component that is both practical and useful. For my project, Trends n Friends, I chose to focus on the restaurant aspect of Yelp and capitalize on the socialness of eating. Trends n Friends introduces a new feature on Yelp, called "Discover," that incorporates "Trending," "Friends," and "Updates" maps to transition Yelp into a social platform.
 
 
-## Design statement: 
+## Design statement
 Beside being a necessity of life, eating has become an increasingly social occurence. With the rise of social networks, the food experience should address this changing culture by introducing its own social aspect. Trends n Friends resolves this issue by adding a social feature to Yelp. Not only would users continue to use Yelp for its primary features, but Trends n Friends would allow for a seamless food experience- from finding a restaurant, going to it, and ultimately sharing the experience.
 
 
-## Competitor analysis:
+## Competitor analysis
 Besides Yelp, one of their competitors is OpenTable, a part of Booking.com, that provides a similar service to Yelp in that it allows for searching of restaurants, booking of reservations, and writing of reviews. Both of these services help provide users (+ aspiring foodies) with a streamlined food experience. Read more about the competitive analysis [here](https://github.com/sofiatam/Assignment01-DH150). See usability testing [here](https://github.com/sofiatam/Assignment02-DH150).
 
 #### Comparison of Yelp and OpenTable
@@ -34,13 +34,17 @@ Summary and link to your assignment folder
 [Assignment04](https://github.com/sofiatam/Assignment04-DH150)
 
 
-## UX storytelling [persona+scenario, assignment05]
+## UX Storytelling
 I created three personas that fall into the target demographic for my Yelp feature:
 <table>
 <tr>
   <td> <img width="1440" alt="Tyler" src="https://user-images.githubusercontent.com/25126263/74080050-beca5380-49f4-11ea-96a9-d8c3bec704bb.png"> </td>
   <td> <img width="1440" alt="Justine" src="https://user-images.githubusercontent.com/25126263/74080054-c4c03480-49f4-11ea-93d7-83c52b0a7a8b.png"> </td>
-  <td> <img width="1440" alt="Kelly" src="https://user-images.githubusercontent.com/25126263/74080056-c7228e80-49f4-11ea-9d91-08ab2727a0d5.png"> </td>
+</tr>
+</table>
+<table>
+<tr>
+<td> <img width="1440" alt="Kelly" src="https://user-images.githubusercontent.com/25126263/74080056-c7228e80-49f4-11ea-9d91-08ab2727a0d5.png"> </td>
 </tr>
 </table>
 
@@ -49,33 +53,40 @@ I also created three scenarios that demonstrated the use of the feature I am int
 - Scenario #2: See business updates for particular occassions
 - Scenario #3: See where your friends are currently eating
 
-Read more about my personas and scenarios [here](https://github.com/sofiatam/Assignment05-DH150).
+See how my personas would perform in these scenarios [here](https://github.com/sofiatam/Assignment05-DH150).
 
 
-## Wireframe and graphic design element variation [assignment07 + part of 08]
+## Wireframe and Graphic Design Element Variation [assignment07 + part of 08]
 [Assignment06](https://github.com/sofiatam/Assignment06-DH150)
 [Assignment07](https://github.com/sofiatam/Assignment07-DH150)
 [Assignment08](https://github.com/sofiatam/Assignment08-DH150)
 
 
-## Low-fidelity prototype (wireflow, assignment07)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
-[Assignment06](https://github.com/sofiatam/Assignment06-DH150)
+## Low-fidelity Prototype
+I created a low-fidelity prototype to outline the flow of my feature. Here is what the final revised prototype looks like:
+![Final low-fidelity prototype](https://user-images.githubusercontent.com/25126263/74574401-7650ef80-4f38-11ea-9049-ce5fa3e66a63.jpg)
+
+See my original wireflow, edits, and comments [here](https://github.com/sofiatam/Assignment06-DH150).
 
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
-[Assignment08](https://github.com/sofiatam/Assignment08-DH150)
+## High-fidelity Prototype
+Then, I created a high-fidelity prototype that was an interactive version of my low-fidelity prototype. Here is what the wireflow looks like:
+![Wireframe](https://user-images.githubusercontent.com/25126263/75522048-d7a7a280-59bd-11ea-86c6-847632d8faa6.png)
+
+Here is the link to the interactive prototype: https://www.figma.com/file/fYvmNtKcbiMaGoLccWYWFh/DH-150
+
+Read more about my design decisions, revisions, and supported tasks [here](https://github.com/sofiatam/Assignment08-DH150).
 
 
-## Optional evaluation and revision history 
+## (Optional) Evaluation and Revision History 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 
-## Pitch video [update the video after recording your presentation]
+## Pitch Video [update the video after recording your presentation]
 <figure class="video_container">
   <iframe src="video link" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 
-## Conclusion: what you learned throughout the process?
+## Conclusion
+What you learned throughout the process?
