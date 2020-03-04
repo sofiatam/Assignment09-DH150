@@ -1,18 +1,16 @@
-# Trends and Friends
-## DH 150 Winter 2020, Sofia Tam
+# Trends n Friends
+## DH 150 UX Deisgn, Sofia Tam
 
-## About Trends and Friends:
-What is the project about? The motivation of the project and possible contribution. (2-3 sentences)
+## About Trends n Friends:
+Yelp is a popular platform for community members to publish reviews for different types of businesses (restaurants, shops, services, etc.), but it lacks a social component that is both practical and useful. For my project, Trends n Friends, I chose to focus on the restaurant aspect of Yelp and capitalize on the socialness of eating. Trends n Friends introduces a new feature on Yelp, called "Discover," that incorporates "Trending," "Friends," and "Updates" maps to transition Yelp into a social platform.
 
 
 ## Design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
-
-I hope to impact the food community by providing foodies (+ aspring foodies) with a seamless and efficient food-related experience.
+Beside being a necessity of life, eating has become an increasingly social occurence. With the rise of social networks, the food experience should address this changing culture by introducing its own social aspect. Trends n Friends resolves this issue by adding a social feature to Yelp. Not only would users continue to use Yelp for its primary features, but Trends n Friends would allow for a seamless food experience- from finding a restaurant, going to it, and ultimately sharing the experience.
 
 
 ## Competitor analysis:
-Yelp is a popular platform for customers to publish reviews for different types of businesses (restaurants, shops, services, etc.). OpenTable, which is a part of Booking.com, provides a similar service to Yelp in that it allows for searching of restaurants, booking of reservations, and writing of reviews. Both of these services help provide users (+ aspiring foodies) with a streamlined food experience. Read more [here](https://github.com/sofiatam/Assignment01-DH150). See usability testing [here](https://github.com/sofiatam/Assignment02-DH150).
+Besides Yelp, one of their competitors is OpenTable, a part of Booking.com, that provides a similar service to Yelp in that it allows for searching of restaurants, booking of reservations, and writing of reviews. Both of these services help provide users (+ aspiring foodies) with a streamlined food experience. Read more about the competitive analysis [here](https://github.com/sofiatam/Assignment01-DH150). See usability testing [here](https://github.com/sofiatam/Assignment02-DH150).
 
 #### Comparison of Yelp and OpenTable
 <table>
@@ -30,13 +28,28 @@ Yelp is a popular platform for customers to publish reviews for different types 
 
 
 ## User research [contextual inquiry, assignment04]:
+The main activity of this project is finding a restaurant to eat at online. The basic need involved for this activity is the internet. Currently, the solutions to satisfy this need are word-of-mouth and internet searches. There are various sites that exist to share restaurants, like Yelp, Google, and TripAdvisor. The limitations that could be improved with technology are that it is hard to refine and filter restaurants, since there are so many of them. There is also no usage of data to cater search results to match your historical preferences. The plethora of data is difficult to sort through.
+
 Summary and link to your assignment folder
 [Assignment04](https://github.com/sofiatam/Assignment04-DH150)
 
 
 ## UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
-[Assignment05](https://github.com/sofiatam/Assignment05-DH150)
+I created three personas that fall into the target demographic for my Yelp feature:
+<table>
+<tr>
+  <td> <img width="1440" alt="Tyler" src="https://user-images.githubusercontent.com/25126263/74080050-beca5380-49f4-11ea-96a9-d8c3bec704bb.png"> </td>
+  <td> <img width="1440" alt="Justine" src="https://user-images.githubusercontent.com/25126263/74080054-c4c03480-49f4-11ea-93d7-83c52b0a7a8b.png"> </td>
+  <td> <img width="1440" alt="Kelly" src="https://user-images.githubusercontent.com/25126263/74080056-c7228e80-49f4-11ea-9d91-08ab2727a0d5.png"> </td>
+</tr>
+</table>
+
+I also created three scenarios that demonstrated the use of the feature I am introducing for Yelp:
+- Scenario #1: See what restaurants are trending in a particular area
+- Scenario #2: See business updates for particular occassions
+- Scenario #3: See where your friends are currently eating
+
+Read more about my personas and scenarios [here](https://github.com/sofiatam/Assignment05-DH150).
 
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
