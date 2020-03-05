@@ -42,11 +42,7 @@ I created three personas that fall into the target demographic for my Yelp featu
 <tr>
   <td> <img width="1440" alt="Tyler" src="https://user-images.githubusercontent.com/25126263/74080050-beca5380-49f4-11ea-96a9-d8c3bec704bb.png"> </td>
   <td> <img width="1440" alt="Justine" src="https://user-images.githubusercontent.com/25126263/74080054-c4c03480-49f4-11ea-93d7-83c52b0a7a8b.png"> </td>
-</tr>
-</table>
-<table>
-<tr>
-<td> <img width="770" alt="Kelly" src="https://user-images.githubusercontent.com/25126263/74080056-c7228e80-49f4-11ea-9d91-08ab2727a0d5.png"> </td>
+  <img width="1440" alt="Kelly" src="https://user-images.githubusercontent.com/25126263/74080056-c7228e80-49f4-11ea-9d91-08ab2727a0d5.png"> </td>
 </tr>
 </table>
 
