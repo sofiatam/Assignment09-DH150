@@ -10,7 +10,9 @@ Beside being a necessity of life, eating has become an increasingly social occur
 
 
 ## Competitor analysis
-Besides Yelp, one of their competitors is OpenTable, a part of Booking.com, that provides a similar service to Yelp in that it allows for searching of restaurants, booking of reservations, and writing of reviews. Both of these services help provide users (+ aspiring foodies) with a streamlined food experience. Read more about the competitive analysis [here](https://github.com/sofiatam/Assignment01-DH150). See usability testing [here](https://github.com/sofiatam/Assignment02-DH150).
+Besides Yelp, one of their competitors is OpenTable, a part of Booking.com, that provides a similar service to Yelp in that it allows for searching of restaurants, booking of reservations, and writing of reviews. Both of these services help provide users (+ aspiring foodies) with a streamlined food experience. 
+
+Read more about the competitive analysis [here](https://github.com/sofiatam/Assignment01-DH150). See usability testing [here](https://github.com/sofiatam/Assignment02-DH150).
 
 #### Comparison of Yelp and OpenTable
 <table>
@@ -27,15 +29,15 @@ Besides Yelp, one of their competitors is OpenTable, a part of Booking.com, that
 </table>
 
 
-## User research [contextual inquiry, assignment04]:
-The main activity of this project is finding a restaurant to eat at online. The basic need involved for this activity is the internet. Currently, the solutions to satisfy this need are word-of-mouth and internet searches. There are various sites that exist to share restaurants, like Yelp, Google, and TripAdvisor. The limitations that could be improved with technology are that it is hard to refine and filter restaurants, since there are so many of them. There is also no usage of data to cater search results to match your historical preferences. The plethora of data is difficult to sort through.
+## User research
+I conducted user research on a person who falls into Yelp's target demographic by asking them to find a restaurant to eat at. Currently, the means to complete such a task include word-of-mouth and using the internet. There are various sites that exist to share restaurants, like Yelp, Google, and TripAdvisor. Since I, myself, am a Yelp user, it was interesting to see how someone else was led to use Yelp and utilized it during the user testing. 
 
-Summary and link to your assignment folder
-[Assignment04](https://github.com/sofiatam/Assignment04-DH150)
+Read more about my contextual inquiry and user research [here](https://github.com/sofiatam/Assignment04-DH150).
 
 
-## UX Storytelling
+## UX storytelling
 I created three personas that fall into the target demographic for my Yelp feature:
+
 <table>
 <tr>
   <td> <img width="1440" alt="Tyler" src="https://user-images.githubusercontent.com/25126263/74080050-beca5380-49f4-11ea-96a9-d8c3bec704bb.png"> </td>
@@ -44,9 +46,10 @@ I created three personas that fall into the target demographic for my Yelp featu
 </table>
 <table>
 <tr>
-<td> <img width="1440" alt="Kelly" src="https://user-images.githubusercontent.com/25126263/74080056-c7228e80-49f4-11ea-9d91-08ab2727a0d5.png"> </td>
+<td> <img width="770" alt="Kelly" src="https://user-images.githubusercontent.com/25126263/74080056-c7228e80-49f4-11ea-9d91-08ab2727a0d5.png"> </td>
 </tr>
 </table>
+
 
 I also created three scenarios that demonstrated the use of the feature I am introducing for Yelp:
 - Scenario #1: See what restaurants are trending in a particular area
@@ -56,21 +59,23 @@ I also created three scenarios that demonstrated the use of the feature I am int
 See how my personas would perform in these scenarios [here](https://github.com/sofiatam/Assignment05-DH150).
 
 
-## Wireframe and Graphic Design Element Variation [assignment07 + part of 08]
+## Wireframe and graphic design element variation [assignment07 + part of 08]
 [Assignment06](https://github.com/sofiatam/Assignment06-DH150)
 [Assignment07](https://github.com/sofiatam/Assignment07-DH150)
 [Assignment08](https://github.com/sofiatam/Assignment08-DH150)
 
 
-## Low-fidelity Prototype
+## Low-fidelity prototype
 I created a low-fidelity prototype to outline the flow of my feature. Here is what the final revised prototype looks like:
+
 ![Final low-fidelity prototype](https://user-images.githubusercontent.com/25126263/74574401-7650ef80-4f38-11ea-9049-ce5fa3e66a63.jpg)
 
 See my original wireflow, edits, and comments [here](https://github.com/sofiatam/Assignment06-DH150).
 
 
-## High-fidelity Prototype
+## High-fidelity prototype
 Then, I created a high-fidelity prototype that was an interactive version of my low-fidelity prototype. Here is what the wireflow looks like:
+
 ![Wireframe](https://user-images.githubusercontent.com/25126263/75522048-d7a7a280-59bd-11ea-86c6-847632d8faa6.png)
 
 Here is the link to the interactive prototype: https://www.figma.com/file/fYvmNtKcbiMaGoLccWYWFh/DH-150
@@ -78,11 +83,21 @@ Here is the link to the interactive prototype: https://www.figma.com/file/fYvmNt
 Read more about my design decisions, revisions, and supported tasks [here](https://github.com/sofiatam/Assignment08-DH150).
 
 
-## (Optional) Evaluation and Revision History 
+## Evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
+I also audited the accessibility of Yelp's website to see how ADA compatible it was. I also tested various color schemes 
 
-## Pitch Video [update the video after recording your presentation]
+
+I also conducted usability tests to see how usable the website Yelp was. The purpose of usability tests is to evaluate a site's interface and notice flaws in its usability. For the usability tests, I created tasks that addressed these heuristic issues I previously noticed:
+- Difficulties in filtering search results
+- Sponsored results distort actual search results
+- Certain site features are difficult to find
+
+Read more about my usability test [here](https://github.com/sofiatam/Assignment02-DH150).
+
+
+## Pitch video [update the video after recording your presentation]
 <figure class="video_container">
   <iframe src="video link" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
