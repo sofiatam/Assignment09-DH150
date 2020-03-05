@@ -2,7 +2,7 @@
 ## DH 150 UX Deisgn, Sofia Tam
 
 ## About Trends n Friends
-Yelp is a popular platform for community members to publish reviews for different types of businesses (restaurants, shops, services, etc.), but it lacks a social component that is both practical and useful. For my project, Trends n Friends, I chose to focus on the restaurant aspect of Yelp and capitalize on the socialness of eating. Trends n Friends introduces a new feature on Yelp, called "Discover," that incorporates "Trending," "Friends," and "Updates" maps to transition Yelp into a social platform.
+Yelp is a popular platform for community members to publish reviews for different types of businesses (restaurants, shops, services, etc.), but it lacks a social component that is both practical and useful. For my project, Trends n Friends, I chose to focus on the restaurant aspect of Yelp and capitalize on the socialness of eating. Trends n Friends introduces a new feature on Yelp, called "Discover," that incorporates "Trending," "Friends," and "Updates" maps to help transition Yelp into a successful social platform.
 
 
 ## Design statement
@@ -59,14 +59,19 @@ I also created three scenarios that demonstrated the use of the feature I am int
 See how my personas would perform in these scenarios [here](https://github.com/sofiatam/Assignment05-DH150).
 
 
-## Wireframe and graphic design element variation [assignment07 + part of 08]
-[Assignment06](https://github.com/sofiatam/Assignment06-DH150)
-[Assignment07](https://github.com/sofiatam/Assignment07-DH150)
-[Assignment08](https://github.com/sofiatam/Assignment08-DH150)
+## Wireframe and graphic design element variation
+My wireframes were inspired by Yelp's existing user interface, so that the integration of my feature would be intuitive to existing Yelp users. Click [here](https://github.com/sofiatam/Assignment06-DH150) to see more on my initial wireframes.
+
+Since I tried to maintain Yelp's existing user interface, I tested different graphic design elements and color schemes [here](https://github.com/sofiatam/Assignment07-DH150). 
+
+After creating the wireframes and testing different graphic design elements for my feature, I created example wireflows for it. Here is an example of a sample screen showing the "Trending" map:
+![Trending Map](https://user-images.githubusercontent.com/25126263/75522079-eb530900-59bd-11ea-9f8c-f0c5b868535f.png)
+
+Read more about my wireflows and wireframes [here](https://github.com/sofiatam/Assignment08-DH150).
 
 
 ## Low-fidelity prototype
-I created a low-fidelity prototype to outline the flow of my feature. Here is what the final revised prototype looks like:
+I created a low-fidelity prototype to outline the flow of my feature. Low fidelity prototypes are useful to see how the user thinks when presented with a potential solution, and allows people like me to observe how the user thinks and logically map out how the new features will behave. Here is what the final revised prototype looks like:
 
 ![Final low-fidelity prototype](https://user-images.githubusercontent.com/25126263/74574401-7650ef80-4f38-11ea-9049-ce5fa3e66a63.jpg)
 
@@ -84,17 +89,17 @@ Read more about my design decisions, revisions, and supported tasks [here](https
 
 
 ## Evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
-
-I also audited the accessibility of Yelp's website to see how ADA compatible it was. I also tested various color schemes 
-
-
 I also conducted usability tests to see how usable the website Yelp was. The purpose of usability tests is to evaluate a site's interface and notice flaws in its usability. For the usability tests, I created tasks that addressed these heuristic issues I previously noticed:
 - Difficulties in filtering search results
 - Sponsored results distort actual search results
 - Certain site features are difficult to find
 
 Read more about my usability test [here](https://github.com/sofiatam/Assignment02-DH150).
+
+
+I audited the accessibility of Yelp's website to see how ADA compatible it was. I also tested various color schemes for their accessibility. See the results of Yelp's accessibility test [here](https://github.com/sofiatam/Assignment07-DH150/blob/master/audit-YELP.pdf).
+
+Click [here](https://github.com/sofiatam/Assignment07-DH150) to see all of the results for my accessibility tests.
 
 
 ## Pitch video [update the video after recording your presentation]
