@@ -1,5 +1,5 @@
 # Trends n Friends
-## DH 150 UX Deisgn, Sofia Tam
+## DH 150 UX Design, Sofia Tam
 
 ## About Trends n Friends
 Yelp is a popular platform for community members to publish reviews for different types of businesses (restaurants, shops, services, etc.), but it lacks a social component that is both practical and useful. For my project, Trends n Friends, I chose to focus on the restaurant aspect of Yelp and capitalize on the socialness of eating. Trends n Friends introduces a new feature on Yelp, called "Discover," that incorporates "Trending," "Friends," and "Updates" maps to help transition Yelp into a successful social platform.
