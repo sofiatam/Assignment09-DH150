@@ -105,5 +105,8 @@ Click [here](https://github.com/sofiatam/Assignment07-DH150) to see all of the r
 
 
 ## Conclusion
-What you learned throughout the process?
-Throughout this entire process, the most important lesson I learned was to put the user first. The user should be the driving factor for the project. Starting from user research and usability testing all the way to creating high fidelity prototypes, 
+Throughout this entire process, the most important lesson I learned was to put the user first. The user should be the driving factor for the project because in the end, this feature is created exclusively for the user. Starting from user research and usability testing all the way to creating interactive prototypes, the user is always kept in mind. Additionally, I learned technical skills such as how to conduct user interviews, create personas and scenarios, and design prototypes.
+
+In the future, or if I had additional time, I would try to conduct more user research to further identify pain points. This would give me a more holistic view of Yelp and its areas for improvement. User research is incredibly helpful for guiding a project because it tells you exactly what the user wants/currently lacks. I would have also looked more into the competitive landscape regarding Yelp to get a better idea of what other companies are doing with regards to integrating socialness into their services. This way, I would be able to see if any platforms offer existing solutions to the problem area I described previously. 
+
+My project, Trends n Friends, connects people with food by providing a seamless food experience on Yelp.
