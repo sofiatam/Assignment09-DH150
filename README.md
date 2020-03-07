@@ -100,10 +100,7 @@ Click [here](https://github.com/sofiatam/Assignment07-DH150) to see all of the r
 
 ## Pitch video
 
-<figure class="video_container">
-  <iframe src="https://youtu.be/tshNfgMyxVk" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
+[![here](http://img.youtube.com/vi/tshNfgMyxVk/0.jpg)](https://www.youtube.com/watch?v=tshNfgMyxVk "DH 150 Pitch Video")
 
 
 ## Conclusion
