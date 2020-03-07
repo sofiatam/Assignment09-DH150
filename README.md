@@ -105,6 +105,7 @@ Click [here](https://github.com/sofiatam/Assignment07-DH150) to see all of the r
 </figure>
 
 
+
 ## Conclusion
 Throughout this entire process, the most important lesson I learned was to put the user first. The user should be the driving factor for the project because in the end, this feature is created exclusively for the user. Starting from user research and usability testing all the way to creating interactive prototypes, the user is always kept in mind. Additionally, I learned technical skills such as how to conduct user interviews, create personas and scenarios, and design prototypes.
 
