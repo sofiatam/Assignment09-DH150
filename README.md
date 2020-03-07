@@ -98,7 +98,8 @@ I audited the accessibility of Yelp's website to see how ADA compatible it was. 
 Click [here](https://github.com/sofiatam/Assignment07-DH150) to see all of the results for my accessibility tests.
 
 
-## Pitch video [update the video after recording your presentation]
+## Pitch video
+
 <figure class="video_container">
   <iframe src="https://drive.google.com/file/d/1AH-2r0zZLt5zC1dygW2H8uO16BfticWd/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
