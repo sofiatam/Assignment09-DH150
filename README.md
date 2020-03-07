@@ -99,6 +99,7 @@ Click [here](https://github.com/sofiatam/Assignment07-DH150) to see all of the r
 
 
 ## Pitch video
+Click here for pitch video:
 [![Pitch Video](http://img.youtube.com/vi/tshNfgMyxVk/0.jpg)](https://www.youtube.com/watch?v=tshNfgMyxVk "Pitch Video")
 
 
