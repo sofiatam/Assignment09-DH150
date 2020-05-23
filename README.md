@@ -6,7 +6,7 @@ Yelp is a popular platform for community members to publish reviews for differen
 
 
 ## Design statement
-Beside being a necessity of life, eating has become an increasingly social occurence. With the rise of social networks, the food experience should address this changing culture by introducing its own social aspect. Trends n Friends resolves this issue by adding a social feature to Yelp. Not only would users continue to use Yelp for its primary features, but Trends n Friends would allow for a seamless food experience- from finding a restaurant, going to it, and ultimately sharing the experience.
+Beside being a necessity of life, eating has become an increasingly social occurrence. With the rise of social networks, the food experience should address this changing culture by introducing its own social aspect. Trends n Friends resolves this issue by adding a social feature to Yelp. Not only would users continue to use Yelp for its primary features, but Trends n Friends would allow for a seamless food experience- from finding a restaurant, going to it, and ultimately sharing the experience.
 
 
 ## Competitor analysis
