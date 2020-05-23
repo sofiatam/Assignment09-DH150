@@ -99,11 +99,7 @@ Click [here](https://github.com/sofiatam/Assignment07-DH150) to see all of the r
 
 
 ## Pitch video
-
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/tshNfgMyxVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
-</figure>
-
+Watch my pitch video:
 [![Pitch video](https://img.youtube.com/vi/tshNfgMyxVk/0.jpg)](https://www.youtube.com/watch?v=tshNfgMyxVk)
 
 
